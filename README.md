@@ -6,7 +6,7 @@ This repository contains programs written for the alx-higher_level_programming t
 
 <h2>Author:</h2>
 
-Richard Miruka Onsare [RichardMiruka](https://github.com/RichardMiruka) 
+[Richard Miruka Onsare](https://github.com/RichardMiruka) 
 
 <h3>Acknowledgements 🌍:</h3>
 
