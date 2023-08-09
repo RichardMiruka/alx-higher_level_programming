@@ -5,7 +5,7 @@
 ## Concepts
 
 * [Python programming](https://intranet.alxswe.com/concepts/550)
-* 
+  
 # Resources
 
 - [The Python tutorial](https://intranet.alxswe.com/rltoken/JsFCs_NBzMAR7-XPAZ9BoA) (only the first three chapters below)
