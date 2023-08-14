@@ -2,7 +2,7 @@
 
 <h2>Python Programming-Language</h2>
 
-This repository contains programs written for the alx-higher_level_programming track at ALX Africa. I am currently learning Python.
+This repository contains programs written for the alx-higher_level_programming track at Holberton School: ALX Africa. I am currently learning Python.
 
 ![](https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
 
