@@ -8,3 +8,9 @@ What are lists and how to use them, What are the differences and similarities be
 * [Data structures (until 5.3. Tuples and Sequences included)](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)
 
 * [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
+
+![](https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
+
+![data](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiy-oF_UHY1kVZnhB1Hv6MuNzkbgyIZa64SA&usqp=CAU)
+---------------------------------------------------------------
+---------------------------------------------------------------
