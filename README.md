@@ -4,6 +4,8 @@
 
 This repository contains programs written for the alx-higher_level_programming track at ALX Africa. I am currently learning Python.
 
+![](https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
+
 ![alx_image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
 <h2>Author:</h2>
