@@ -6,6 +6,13 @@ What are sets and how to use them, What are the most common methods of set and h
 
 # Resources
 
+*
+
+*
+
+*
+
+*
 
 
 ![](https://files.realpython.com/media/Python-Tricks-Chapter-on-Data-Structures_Watermarked.b5d9d86333c3.jpg)
