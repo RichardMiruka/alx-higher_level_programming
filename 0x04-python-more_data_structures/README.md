@@ -12,4 +12,5 @@ What are sets and how to use them, What are the most common methods of set and h
 
 * [Learn to Program 12 Lambda Map Filter Reduce](https://intranet.alxswe.com/rltoken/v9eyFryhkYmxDI13iTx2VA)
 
+  
 ![](https://files.realpython.com/media/Python-Tricks-Chapter-on-Data-Structures_Watermarked.b5d9d86333c3.jpg)
