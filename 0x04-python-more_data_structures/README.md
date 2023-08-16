@@ -6,11 +6,11 @@ What are sets and how to use them, What are the most common methods of set and h
 
 # Resources
 
-* [Data structures]()
+* [Data structures](https://intranet.alxswe.com/rltoken/v9eyFryhkYmxDI13iTx2VA)
 
-* [Lambda, filter, reduce and map]()
+* [Lambda, filter, reduce and map](https://intranet.alxswe.com/rltoken/53f4kKVT0-jyzrJstOSJWg)
 
-* [Learn to Program 12 Lambda Map Filter Reduce]()
+* [Learn to Program 12 Lambda Map Filter Reduce](https://intranet.alxswe.com/rltoken/v9eyFryhkYmxDI13iTx2VA)
 
 *
 
