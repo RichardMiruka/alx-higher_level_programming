@@ -1,5 +1,7 @@
 # Python - Exceptions
 
+## Resources
+
 ## Learning Objectives
 - Why Python programming is awesome
 - What’s the difference between errors and exceptions
