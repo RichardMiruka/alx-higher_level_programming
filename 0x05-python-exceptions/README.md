@@ -2,8 +2,6 @@
 
 ![](https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png)
 
-## Resources
-
 ## Learning Objectives
 - Why Python programming is awesome
 - What’s the difference between errors and exceptions
