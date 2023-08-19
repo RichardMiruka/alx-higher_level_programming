@@ -1,5 +1,7 @@
 # Python - Exceptions
 
+![](https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png)
+
 ## Resources
 
 ## Learning Objectives
