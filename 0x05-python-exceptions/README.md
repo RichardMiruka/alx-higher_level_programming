@@ -13,8 +13,6 @@
 - When do we need to implement a clean-up action after an exception
 
 ## Resources
-*
-*
-*
-*
-*
+* [Errors and Exceptions](https://intranet.alxswe.com/rltoken/Yj7sDOzmKwICSHr7WEAW3A)
+* [Learn to Program 11 Static & Exception Handling](https://intranet.alxswe.com/rltoken/xASzXarhF1sBhzYkJ14LvQ) (starting at minute 7)
+
