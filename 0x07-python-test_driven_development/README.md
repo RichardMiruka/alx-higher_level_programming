@@ -1,5 +1,7 @@
 # Python - Test-driven development
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
+
+Based on the requirements of each task, you should always write the documentation (module(s) + function(s)) and tests first, before you actually code anything
 ## Resources
 
 * [doctest — Test interactive Python examples](https://intranet.alxswe.com/rltoken/BwZJVq2MQ1_Vg_3gphoitQ) (until “26.2.3.7. Warnings” included)
