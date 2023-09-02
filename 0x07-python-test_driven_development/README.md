@@ -1,5 +1,5 @@
 # Python - Test-driven development
-![]()
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 ## Resources
 
 * [doctest — Test interactive Python examples](https://intranet.alxswe.com/rltoken/BwZJVq2MQ1_Vg_3gphoitQ) (until “26.2.3.7. Warnings” included)
@@ -9,4 +9,4 @@
 * [Interactive and Non-interactive tests](https://intranet.alxswe.com/rltoken/lB65hNMXBziXy4A0YLIOog)
 * [Never forget a test](https://intranet.alxswe.com/concepts/47)
 
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif
+
