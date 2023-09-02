@@ -1,6 +1,5 @@
 # Python - Test-driven development
 
-Based on the requirements of each task, you should always write the documentation (module(s) + function(s)) and tests first, before you actually code anything
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 ## Resources
 
