@@ -16,6 +16,7 @@ BTW, have you ever modified a variable without knowing it or wanting to?
 * [9.12. Cloning lists](https://intranet.alxswe.com/rltoken/-Gi4PX4srBYFKpZ5Er6sqA)
 * [Python tuples: immutable but potentially changing](https://intranet.alxswe.com/rltoken/NZIom4L-tS0HjpY_uEVr9A)
 
+![](https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)
 ## Learning Objectives
 
 - What is the difference between a class and an object or instance
