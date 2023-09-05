@@ -1,17 +1,14 @@
+<h1>ALX-HIGHER_LEVEL_PROGRAMMING</h1>
 
 # Python
 ## Welcome to the Python world!
-
-<h1>ALX-HIGHER_LEVEL_PROGRAMMING</h1>
-
-<h2>Python Programming-Language</h2>
 
 This repository contains programs written for the higher-level programming track at ALX Africa(Holberton School).
 I am currently learning Python.
 
 <h2>Author:</h2>
 
-Richard Miruka Onsare [RichardMiruka](https://github.com/RichardMiruka)
+[Richard Miruka Onsare](https://github.com/RichardMiruka)
 
 <h3>Acknowledgements 🌍:</h3>
 
