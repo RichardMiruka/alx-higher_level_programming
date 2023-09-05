@@ -10,8 +10,8 @@ BTW, have you ever modified a variable without knowing it or wanting to?
 ## Resources
 
 * [9.10. Objects and values](https://intranet.alxswe.com/rltoken/MrtBogRzYETxnSKG97E7Sg)
-* [9.11. Aliasing]()
-* [Immutable vs mutable types]()
-* [Mutation]() (Only this chapter)
+* [9.11. Aliasing](https://intranet.alxswe.com/rltoken/Ro-7kVXtmWyAeOXEw7RhSg)
+* [Immutable vs mutable types](https://intranet.alxswe.com/rltoken/X1lEmkwQRWI3fP4W7bq_qw)
+* [Mutation](https://intranet.alxswe.com/rltoken/6d5UiQ__13J1EU8BdddCyg) (Only this chapter)
 * [9.12. Cloning lists]()
 * [Python tuples: immutable but potentially changing]()
