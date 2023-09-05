@@ -1,5 +1,5 @@
-## This Directory was Based on
-# LOOPS(if, Else, Elif) with some touch of C (linked list) 
+# Python - if/else, loops, functions
+## LOOPS(if, Else, Elif) with some touch of C (linked list) 
 
 ![alx](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png)
 
