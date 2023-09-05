@@ -5,18 +5,13 @@ Now that we understand that everything is an object and have a little bit of kno
 
 BTW, have you ever modified a variable without knowing it or wanting to? 
 
->>> a = 1
->>> b = a
->>> a = 2
->>> b
-1
->>> 
-OK. But what about this?
-
->>> l = [1, 2, 3]
->>> m = l
->>> l[0] = 'x'
->>> m
-['x', 2, 3]
->>> 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/252/r_208403_QPSN8.jpg)
+
+## Resources
+
+* [9.10. Objects and values](https://intranet.alxswe.com/rltoken/MrtBogRzYETxnSKG97E7Sg)
+* [9.11. Aliasing]()
+* [Immutable vs mutable types]()
+* [Mutation]() (Only this chapter)
+* [9.12. Cloning lists]()
+* [Python tuples: immutable but potentially changing]()
