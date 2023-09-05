@@ -14,4 +14,4 @@ BTW, have you ever modified a variable without knowing it or wanting to?
 * [Immutable vs mutable types](https://intranet.alxswe.com/rltoken/X1lEmkwQRWI3fP4W7bq_qw)
 * [Mutation](https://intranet.alxswe.com/rltoken/6d5UiQ__13J1EU8BdddCyg) (Only this chapter)
 * [9.12. Cloning lists](https://intranet.alxswe.com/rltoken/-Gi4PX4srBYFKpZ5Er6sqA)
-* [Python tuples: immutable but potentially changing]()
+* [Python tuples: immutable but potentially changing](https://intranet.alxswe.com/rltoken/NZIom4L-tS0HjpY_uEVr9A)
