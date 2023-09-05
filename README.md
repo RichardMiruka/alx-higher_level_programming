@@ -4,7 +4,7 @@
 ## Welcome to the Python world!
 
 This repository contains programs written for the higher-level programming track at ALX Africa(Holberton School).
-I am currently learning Python.
+I am currently learning Python. Some of the programs are implemented using C
 ![](https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
 <h2>Author:</h2>
 
