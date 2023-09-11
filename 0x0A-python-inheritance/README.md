@@ -6,4 +6,4 @@
 * [Inheritance](https://intranet.alxswe.com/rltoken/ct-bhZHBxfE-aHYQoAcscQ)
 * [Multiple inheritance](https://intranet.alxswe.com/rltoken/qq52YyYhDIbKBneA-u0PKw)
 * [Inheritance in Python](https://intranet.alxswe.com/rltoken/RJVbH9PvRlwDkBxcTloVOQ)
-* [Learn to Program 10 : Inheritance Magic Methods]()
+* [Learn to Program 10 : Inheritance Magic Methods](https://intranet.alxswe.com/rltoken/CFBGj9h1gP3eNLnEm2Ehhg)
