@@ -4,6 +4,6 @@
 
 ## Resources
 * [Inheritance](https://intranet.alxswe.com/rltoken/ct-bhZHBxfE-aHYQoAcscQ)
-* [Multiple inheritance]()
+* [Multiple inheritance](https://intranet.alxswe.com/rltoken/qq52YyYhDIbKBneA-u0PKw)
 * [Inheritance in Python]()
 * [Learn to Program 10 : Inheritance Magic Methods]()
