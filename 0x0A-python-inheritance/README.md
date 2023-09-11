@@ -1,4 +1,5 @@
 # Python - Inheritance
+Inheritance is a fundamental concept in object-oriented programming (OOP), including Python. It allows you to create a new class that inherits attributes and behaviors (methods) from an existing class. The existing class is often referred to as the "base class" or "parent class," while the new class is called the "derived class" or "child class.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNSR7DAT1mRXYhMTsOAQShwv-GabwZv1ygA&usqp=CAU)
 
