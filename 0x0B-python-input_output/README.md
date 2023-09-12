@@ -8,3 +8,8 @@ Input and output (I/O) refer to the processes of interacting with external data 
 
 The input() function is used to read user input from the keyboard. It reads a line of text entered by the user and returns it as a string.
 ```user_input = input("Enter something: ")```
+
+## Standard Output (Printing):
+
+The print() function is used to display information to the console or standard output. You can print variables, strings, and any other data you want to display.
+```print("Hello, World!")```
