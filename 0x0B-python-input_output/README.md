@@ -30,3 +30,11 @@ with open("output.txt", "w") as file:
 You can redirect standard input and output to and from files or other streams using the < and > operators or by using the sys module's stdin and stdout objects.
 
 ```python script.py < input.txt > output.txt```
+## Formatted Output:
+
+Python supports string formatting for more complex output, using techniques like f-strings, the format() method, or the % operator.
+```
+name = "Alice"
+age = 30
+print(f"My name is {name} and I am {age} years old.")
+```
