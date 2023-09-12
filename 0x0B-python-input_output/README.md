@@ -3,3 +3,8 @@
 Input and output (I/O) refer to the processes of interacting with external data sources, such as reading from and writing to files, receiving user input from the keyboard, and displaying information to the console or other output devices. Python provides several built-in functions and modules to facilitate I/O operations.
 
 ![](https://raw.githubusercontent.com/thecoducer/python_programs/master/Images/python-harry-potter.jpg)
+
+## Reading User Input:
+
+The input() function is used to read user input from the keyboard. It reads a line of text entered by the user and returns it as a string.
+```user_input = input("Enter something: ")```
