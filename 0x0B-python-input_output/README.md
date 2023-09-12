@@ -13,3 +13,15 @@ The input() function is used to read user input from the keyboard. It reads a li
 
 The print() function is used to display information to the console or standard output. You can print variables, strings, and any other data you want to display.
 ```print("Hello, World!")```
+## File I/O:
+
+Python allows you to work with files using the open() function to open a file and various methods for reading (read(), readline(), readlines()) and writing (write(), writelines()) data.
+```
+# Reading from a file
+with open("example.txt", "r") as file:
+    content = file.read()
+
+# Writing to a file
+with open("output.txt", "w") as file:
+    file.write("This is some content.")
+```
