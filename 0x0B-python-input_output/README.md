@@ -25,3 +25,7 @@ with open("example.txt", "r") as file:
 with open("output.txt", "w") as file:
     file.write("This is some content.")
 ```
+## Standard Input/Output Redirection:
+
+You can redirect standard input and output to and from files or other streams using the < and > operators or by using the sys module's stdin and stdout objects.
+```python script.py < input.txt > output.txt```
