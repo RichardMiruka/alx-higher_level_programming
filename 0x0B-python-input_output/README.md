@@ -38,3 +38,10 @@ name = "Alice"
 age = 30
 print(f"My name is {name} and I am {age} years old.")
 ```
+## Error Output (stderr):
+
+Error messages and other diagnostic information are typically printed to the standard error stream (stderr), which can be redirected separately from standard output.
+```
+import sys
+sys.stderr.write("This is an error message.\n")
+```
