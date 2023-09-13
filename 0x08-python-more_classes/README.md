@@ -11,9 +11,8 @@
 * [str vs repr](https://intranet.alxswe.com/rltoken/iu1ILT-t6FMuZvk7vRvfuQ)
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/x2TxSf8LF65dpNOPSGtXgQ), without the help of Google:
 
-- General
 - Why Python programming is awesome
 - What is OOP
 - “first-class everything”
