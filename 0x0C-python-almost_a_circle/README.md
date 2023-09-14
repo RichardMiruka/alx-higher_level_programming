@@ -2,7 +2,6 @@
 
 > Python
 > OOP
-![](https://c.tenor.com/9_qAOoqs-JkAAAAM/futurama-fry.gif)
 
 In this project, we will review everything about Python: Import
 Exceptions,
@@ -14,6 +13,8 @@ Static method,
 Inheritance,
 Unittest, and
 Read/Write file.
+
+![](https://c.tenor.com/9_qAOoqs-JkAAAAM/futurama-fry.gif)
 
 # Resources
 
