@@ -4,6 +4,7 @@
 > OOP
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
+
 In this project, we will review everything about Python: Import
 Exceptions,
 Class,
