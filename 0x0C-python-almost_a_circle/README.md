@@ -16,8 +16,6 @@ Read/Write file.
 
 ![](https://c.tenor.com/9_qAOoqs-JkAAAAM/futurama-fry.gif)
 
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
-
 # Resources
 
 * [args/kwargs](https://intranet.alxswe.com/rltoken/7zBCbNkZbTlhjBk3ElF51Q)
