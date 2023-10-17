@@ -17,6 +17,7 @@ Structured Query language (SQL) is pronounced as “S-Q-L” or sometimes as “
 * [MySQL 5.7 SQL Statement Syntax](https://intranet.alxswe.com/rltoken/rlDZrVw5HXdC9ltREhs-Iw)
 * [installing MySQL in Ubuntu 20.04](https://intranet.alxswe.com/rltoken/IpYI9rgbwfjxOAQQgpHCmQ)
 
+![](https://www.learncomputerscienceonline.com/wp-content/uploads/2019/08/MySQL-Relational-Database-Management-System.jpg)
 ## Learning Objectives
 
 > What’s a database
