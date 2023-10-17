@@ -15,6 +15,7 @@ Structured Query language (SQL) is pronounced as “S-Q-L” or sometimes as “
 * [What makes the big difference between a backtick and an apostrophe?](https://intranet.alxswe.com/rltoken/sjbco1Ww0XQ-K4flOtZsOA)
 * [MySQL Cheat Sheet](https://intranet.alxswe.com/rltoken/_bXox_MWyvWHio4JwFCa3w)
 * [MySQL 5.7 SQL Statement Syntax](https://intranet.alxswe.com/rltoken/rlDZrVw5HXdC9ltREhs-Iw)
+* [installing MySQL in Ubuntu 20.04](https://intranet.alxswe.com/rltoken/IpYI9rgbwfjxOAQQgpHCmQ)
 
 ## Learning Objectives
 
