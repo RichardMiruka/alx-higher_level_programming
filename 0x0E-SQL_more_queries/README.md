@@ -33,3 +33,6 @@
 
 - [Derek Banas Tutorial :yum:](https://www.youtube.com/watch?v=yPu6qV5byu4)
 
+- [Design](https://intranet.alxswe.com/rltoken/EWLRPeqr5sQ9AqfoG_KXxw)
+- [Normalization](https://intranet.alxswe.com/rltoken/mqBhYoSYbhH5ZZrhDcY0kA)
+- [ER Modeling](https://intranet.alxswe.com/rltoken/R0exkJmf-2ddKjGfa8D0dA)
