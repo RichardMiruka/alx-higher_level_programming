@@ -3,6 +3,8 @@
 > Scripting
 > API
 > JavaScript
+> 
+![image](https://github.com/RichardMiruka/alx-higher_level_programming/assets/105627752/9d0a5a32-ba87-47b9-8018-a80cb94f4b3c)
 
 ## Resources 
 * [Working with JSON data](https://intranet.alxswe.com/rltoken/ONv-sSv-FA87Mc5rMZmO6A)
